@@ -3,7 +3,7 @@
 a C program to find the percentage occurrence of a character or word
 
 
-*run and compile 
+*compile and run 
 <br>
 
 <img src='ss1.png'></img>
