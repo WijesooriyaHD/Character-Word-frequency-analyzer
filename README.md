@@ -1,4 +1,4 @@
-# University_Project02_Occurrence_of_Characters_Words
+# Character / Word frequency analyzer
 
 A file or multiple files which contain English texts will be sent to the program, and it gives an output (character or word frequencies ) as a horizontal bar graph printed on the terminal.
 C programming language was used.
